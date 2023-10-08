@@ -1,4 +1,5 @@
-name: Cache GitHub Actions Workflow Dependencies
+name: Java Artifacts in GitHub Actions Maven Build
+
 
 on:
   push:
